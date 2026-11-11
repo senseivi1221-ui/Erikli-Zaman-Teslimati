@@ -7,7 +7,8 @@ Erikli'nin sucusu sabah işe çıkarken bir zaman portalına kapılır. 1850 İs
 
 ## Bağlantılar
 - **Oyna (itch.io):** https://yigitefeerkisi.itch.io/erikli-zaman-teslima
-- **Proje dosyaları (Release):** eklenecek
+- **GitHub deposu:** https://github.com/senseivi1221-ui/Erikli-Zaman-Teslimati
+- **Proje dosyaları (Release):** https://github.com/senseivi1221-ui/Erikli-Zaman-Teslimati/releases/tag/v1.0
 
 ## Kontroller
 | Eylem | Klavye | Fare / dokunmatik |
