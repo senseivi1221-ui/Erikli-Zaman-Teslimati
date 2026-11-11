@@ -1,0 +1,38 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*_BurstDebugInformation_DoNotShip/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Diğer
+*.apk
+*.aab
+*.unitypackage
+*.zip
+Assets/_Recovery/
+Assets/_Recovery.meta
+.DS_Store
+Thumbs.db
